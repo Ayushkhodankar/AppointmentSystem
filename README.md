@@ -9,5 +9,6 @@ The IDEs and Frameworks used for the development of this Repo are:
 
 1. VSCode (Front-end Editings and development)
 2. Eclipse-Neon (Back-end Functions)
+3. MySQL for the database management of the project data.
 
 The Frontend template is taken from an open source.
